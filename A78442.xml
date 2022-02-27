@@ -1,0 +1,696 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cedrus Britanica et laurus regia sive rex &amp; corona a poetical hexameron. Shewing, 1. The invention, 2. The distinction, 3. The designation, 4. The necessity, 5. The dignity, 6. The perpetuity. Of crownes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78442</idno>
+            <idno type="STC">Wing C1654</idno>
+            <idno type="STC">ESTC R223845</idno>
+            <idno type="EEBO-CITATION">99896928</idno>
+            <idno type="PROQUEST">99896928</idno>
+            <idno type="VID">135630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2456:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cedrus Britanica et laurus regia sive rex &amp; corona a poetical hexameron. Shewing, 1. The invention, 2. The distinction, 3. The designation, 4. The necessity, 5. The dignity, 6. The perpetuity. Of crownes.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title words "1. The invention, ... perpetuity." are gathered by a reversed right brace.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crowns --  Early works to 1800.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Queens --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135630:1"/>
+            <pb facs="tcp:135630:1" rendition="simple:additions"/>
+            <pb facs="tcp:135630:2"/>
+            <pb facs="tcp:135630:2" rendition="simple:additions"/>
+            <p>CEDRVS BRITANICA ET LAURUS REGIA SIVE REX &amp; CORONA A POETICAL HEXAMERON.</p>
+            <p>Shewing,
+<list>
+                  <item>1. <hi>The Invention,</hi>
+                  </item>
+                  <item>2. <hi>The Diſtinction,</hi>
+                  </item>
+                  <item>3. <hi>The Deſignation,</hi>
+                  </item>
+                  <item>4. <hi>The Neceſſity,</hi>
+                  </item>
+                  <item>5. <hi>The Dignity,</hi>
+                  </item>
+                  <item>6. <hi>The Perpetuity.</hi>
+                  </item>
+               </list>
+               <hi>Of Crownes.</hi>
+            </p>
+            <p>Printed, Anno Dom. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:135630:3"/>
+            <pb n="3" facs="tcp:135630:3"/>
+            <head>A POETICAL HEXAMERON.</head>
+            <lg>
+               <l>Should <hi>Juno</hi> now (as once ſhe did he nine)</l>
+               <l>Perſwade my <hi>Muſe</hi> to choſe a <hi>theam</hi> divine;</l>
+               <l>And dare, with the ſweet <hi>Acheloiades</hi>
+               </l>
+               <l>To ſing a parode, till ſhee'd won the baies:</l>
+               <l>I'de wiſh her take no other theam then this,</l>
+               <l>
+                  <hi>Rex Coronatus,</hi> is a Kingdomes bliſſe.</l>
+            </lg>
+            <lg n="1">
+               <head>
+                  <hi>I.</hi> Of the Invention of Crowns.</head>
+               <l>
+                  <seg rend="decorInit">S</seg>UBTLE invention! <hi>pregnant womb of Arts!</hi>
+               </l>
+               <l>Which mad'ſt the <hi>Crown</hi> of ſuch admired parts,</l>
+               <l>And ſo <hi>ſtupendious,</hi> that 'tis <hi>hard</hi> to tell</l>
+               <l>Whether thou ſhewdſt an <hi>art</hi> or <hi>miracle.</hi>
+               </l>
+               <l>Man <hi>held</hi> the <hi>pencill,</hi> thou didſt <hi>guide</hi> the <hi>hand:</hi>
+               </l>
+               <l>His was the <hi>motion,</hi> but thine the <hi>command.</hi>
+               </l>
+               <l>What e're of <hi>ſolid matter fram'd</hi> we ſee,</l>
+               <l>Was <hi>immaterially</hi> firſt <hi>wrought</hi> by thee.</l>
+               <l>
+                  <hi>Invention</hi> made the <hi>Artiſt</hi> merit fame:</l>
+               <l>She <hi>did</hi> the <hi>work,</hi> though he hath <hi>got the name.</hi>
+               </l>
+               <l>Who e're it was, that <hi>found</hi> this <hi>royall art</hi>
+               </l>
+               <l>Of making <hi>Crowns;</hi> he wiſely did <hi>impart</hi>
+               </l>
+               <l>His skill: Who would ſo rare an Art interre;</l>
+               <l>And make its <hi>womb</hi> to prove its <hi>Sepulchre?</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:135630:4"/>Should not the fancy act by <hi>emanation,</hi>
+               </l>
+               <l>An Art would prove a <hi>bodyleſſe Creation.</hi>
+               </l>
+               <l>Th' <hi>idea</hi> of a <hi>Crown,</hi> that's <hi>forg'd and coyn'd</hi>
+               </l>
+               <l>Only within the <hi>Mint-houſe</hi> of the <hi>mind,</hi>
+               </l>
+               <l>Is little worth, unleſſe it ſerves to be</l>
+               <l>Th' <hi>exemplar</hi> of ſome <hi>reall Entitie.</hi>
+               </l>
+               <l>What honour is't to <hi>think</hi> on <hi>Crowns?</hi> ſince <hi>Clowns</hi>
+               </l>
+               <l>May be Crown'd with <hi>imaginarie Crowns.</hi>
+               </l>
+               <l>
+                  <hi>That</hi> muſt have <hi>reall worth,</hi> that's made to be</l>
+               <l>The greateſt <hi>Emblem</hi> of <hi>Supremacie.</hi>
+               </l>
+               <l>Here Art excell'd: the Crown ſhe did ingage</l>
+               <l>To be the <hi>wonder</hi> of the <hi>golden Age.</hi>
+               </l>
+               <l>'Tis ſoon reſolv'd, whether <hi>more ſkill</hi> were ſhown</l>
+               <l>When <hi>Nature</hi> wrought the <hi>Gold,</hi> or <hi>Art</hi> the <hi>Crown.</hi>
+               </l>
+               <l>Gold's but <hi>Mechanick traſh</hi> that doth beſmear</l>
+               <l>Firſt the <hi>Refiner,</hi> then th' <hi>Artificer:</hi>
+               </l>
+               <l>Nor is it fit for Crowns or Scepters, till</l>
+               <l>'Tis <hi>forg'd</hi> and <hi>furbiſht</hi> by <hi>admired Skill.</hi>
+               </l>
+               <l>
+                  <hi>Admired Skill!</hi> that makeſt Crowns to be</l>
+               <l>Like that <hi>Celestial-ſpangled Canopy,</hi>
+               </l>
+               <l>So full of <hi>Diamonds;</hi> as if <hi>Art</hi> thence</l>
+               <l>Would cauſe not only <hi>light,</hi> but <hi>influence.</hi>
+               </l>
+               <l>
+                  <hi>O rare invention!</hi> thou ſuch Skill haſt ſhown</l>
+               <l>In <hi>making,</hi> that thou beſt <hi>deſerv'ſt the Crown.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>
+                  <hi>II.</hi> Of the Diſtinction of Crowns.</head>
+               <l>Should <hi>Art,</hi> and <hi>Nature</hi> ſtrive, and both diſcloſe</l>
+               <l>Their <hi>Glory;</hi> that the <hi>Crown,</hi> and this the <hi>Roſe:</hi>
+               </l>
+               <l>The <hi>Roſe</hi> no doubt would <hi>bluſh</hi> and ſhut her eyes,</l>
+               <l>As <hi>guilty</hi> of her own <hi>deformities:</hi>
+               </l>
+               <l>Would <hi>throw her ſelf,</hi> and all her <hi>beauty down</hi>
+               </l>
+               <l>Before the <hi>golden ſplendor</hi> of the <hi>Crown.</hi>
+               </l>
+               <l>Should <hi>Flora</hi> all the <hi>Glory of the Spring</hi>
+               </l>
+               <l>Gather into one <hi>heap,</hi> and proudly bring</l>
+               <l>
+                  <pb n="5" facs="tcp:135630:4"/>Her ſweeteſt Flowers forth; they were not meet</l>
+               <l>For Crowns, their <hi>beauty</hi> b'ing <hi>as ſhort as ſweet.</hi>
+               </l>
+               <l>What though the Ancients uſ'd ſuch <hi>toyes</hi> of old</l>
+               <l>For <hi>Crowns and Garlands;</hi> ſhall we now <hi>ſlight Gold?</hi>
+               </l>
+               <l>Take all the <hi>Tulips, Roſes, Lillies, Pines,</hi>
+               </l>
+               <l>
+                  <hi>Pinkes, Poppies, Violets,</hi> and all that ſhines</l>
+               <l>Or caſts a fragrant ſmell: Cut branches from</l>
+               <l>The <hi>Laurel, Myrtle, Olive, Ivy;</hi> ſome</l>
+               <l>Of theſe perhaps may pleaſe the <hi>wanton ſenſe,</hi>
+               </l>
+               <l>Yet not contain that worth and excellence,</l>
+               <l>That grace and beauty, which ('bove <hi>natures power</hi>)</l>
+               <l>Is wrought by <hi>Art</hi> in her <hi>tranſcendent flower.</hi>
+               </l>
+               <l>Well then my <hi>Sophocles</hi> ſit down; be ſtill;</l>
+               <l>Make <hi>Crowns</hi> no more with his <hi>white Daffodill:</hi>
+               </l>
+               <l>
+                  <hi>Sappho</hi> that famous <hi>Poetreſſe</hi> may now</l>
+               <l>Uſe <hi>Rubies</hi> 'ſtead of <hi>Roſes: Juno's</hi> brow</l>
+               <l>May ſcorn the <hi>Lilly:</hi> may <hi>Diana</hi> be</l>
+               <l>Aſham'd to wear a <hi>Crown of Myrtle tree.</hi>
+               </l>
+               <l>Let ſleeping <hi>Morpheus</hi> with his <hi>Poppy-crown</hi>
+               </l>
+               <l>Dream ne're ſo much of flattering renown:</l>
+               <l>Let <hi>Meleager</hi> boaſt himſelf the man</l>
+               <l>That wore the <hi>Garland</hi> once <hi>Pancarpian:</hi>
+               </l>
+               <l>Let <hi>Bacchus</hi> wear <hi>(who makes the Tun his Throne)</hi>
+               </l>
+               <l>An <hi>Ivy Chaplet</hi> on his head, <hi>or none:</hi>
+               </l>
+               <l>Let Gameſters ſtrive, and think it great renown</l>
+               <l>To win the <hi>Olive,</hi> or the <hi>Laurell</hi> Crown:</l>
+               <l>But what's all this? let Natures <hi>Roſarie</hi>
+               </l>
+               <l>Exhauſt her richeſt Treaſures, and out-vie</l>
+               <l>The Triumphs of thoſe ancient <hi>Roman plaies,</hi>
+               </l>
+               <l>Wherein the <hi>Victors</hi> wore <hi>victorious</hi> Baies:</l>
+               <l>Yet theſe, becauſe they <hi>fade</hi> as faſt as <hi>ſpring,</hi>
+               </l>
+               <l>Are toyes and ſhadowes. <hi>Gold beſt Crowns a King.</hi>
+               </l>
+               <l>Whoſe <hi>durable and glitt'ring matter</hi> ſpeaks</l>
+               <l>A <hi>long and glorious reign:</hi> Whoſe ſubſtance breakes</l>
+               <l>
+                  <hi>Reſiſting metals:</hi> and whoſe <hi>worth</hi> and <hi>weight</hi>
+               </l>
+               <l>Do argue <hi>weighty</hi> cares, <hi>in worthy might:</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:135630:5"/>Whoſe <hi>All-commanding vertue</hi> lets us ſee</l>
+               <l>The <hi>power</hi> of an <hi>earthly Deitie:</hi>
+               </l>
+               <l>Whoſe <hi>eſtimate</hi> above <hi>inferiour things</hi>
+               </l>
+               <l>Showes what <hi>esteem</hi> is due to <hi>ſacred Kings.</hi>
+               </l>
+               <l>
+                  <hi>Gold</hi> then we ſee the <hi>chiefeſt Minerall,</hi>
+               </l>
+               <l>Muſt needs be beſt to <hi>Crown a King</hi> withall.</l>
+            </lg>
+            <lg n="3">
+               <head>
+                  <hi>III.</hi> Of the Deſignation of Crowns.</head>
+               <l>
+                  <hi>Crowns</hi> are for <hi>Kings,</hi> and <hi>Kings</hi> alone for <hi>Crowns:</hi>
+               </l>
+               <l>When theſe <hi>two meet and joyn, Rebellion frowns;</hi>
+               </l>
+               <l>
+                  <hi>Diſſention frets;</hi> and <hi>Treaſon ſtops her mouth;</hi>
+               </l>
+               <l>The <hi>Monſters</hi> of a Kingdome loſe their <hi>growth,</hi>
+               </l>
+               <l>
+                  <hi>Go backward</hi> (that's their proper motion</l>
+               <l>To walke <hi>like Crabs</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.)</l>
+               <l>
+                  <hi>Kings</hi> then have <hi>greateſt honour,</hi> when they <hi>wear</hi>
+               </l>
+               <l>That which commands the Subjects <hi>dread and fear.</hi>
+               </l>
+               <l>The <hi>Motto</hi> of a Crown ſhould alwayes be</l>
+               <l>
+                  <hi>Rex &amp; Corona,</hi> joyn'd eternally.</l>
+               <l>
+                  <hi>Et,</hi> like a <hi>Gordian knot,</hi> ſhould ſtand ſo ſtout</l>
+               <l>'Twixt both, that nought but <hi>death</hi> ſhould <hi>cut it out.</hi>
+               </l>
+               <l>For in the <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> of thoſe <hi>Delian-twins,</hi>
+               </l>
+               <l>
+                  <hi>Concord</hi> in ſtate, and <hi>Truth</hi> in Church begins.</l>
+               <l>
+                  <hi>Crown</hi>'d, is a <hi>concrete,</hi> proper unto none,</l>
+               <l>But thoſe, whom <hi>right exalts</hi> unto the <hi>Throne.</hi>
+               </l>
+               <l>Here <hi>Subjects</hi> are not <hi>Subjects, Kings</hi> muſt be</l>
+               <l>The only <hi>Subjects</hi> of this <hi>Propertie.</hi>
+               </l>
+               <l>
+                  <hi>England</hi> hath oft been <hi>ſick,</hi> but yet not <hi>dead;</hi>
+               </l>
+               <l>Becauſe ſhe had a <hi>Crown to bind her head.</hi>
+               </l>
+               <l>Preſerve the <hi>head, wherein the ſenſes lie,</hi>
+               </l>
+               <l>And then no fear, the <hi>body cannot die.</hi>
+               </l>
+               <l>Give <hi>that</hi> the <hi>Crown,</hi> and <hi>Diadem</hi> to <hi>boot:</hi>
+               </l>
+               <l>Leſſe <hi>pompous Ornaments</hi> will ſerve the <hi>foot.</hi>
+               </l>
+               <l>It cannot be, but that a <hi>Kingdome reele,</hi>
+               </l>
+               <l>Which takes her <hi>Crown,</hi> and wears it on her <hi>heele.</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:135630:5"/>What e're is ſo <hi>prepoſterous</hi> as this</l>
+               <l>To order, carries an <hi>Antitheſis.</hi>
+               </l>
+               <l>Look round about, behold what <hi>Symmetrie,</hi>
+               </l>
+               <l>And <hi>ſweet convenience</hi> in the world we ſee:</l>
+               <l>Nature diſtributing her Gifts to all,</l>
+               <l>Keeps a <hi>proportion Geometricall.</hi>
+               </l>
+               <l>And ſhall not man in imitation, <hi>thus</hi>
+               </l>
+               <l>Obſerve a <hi>Prius and Poſterius?</hi>
+               </l>
+               <l>Should we not own ſome <hi>Pow'r imperiall,</hi>
+               </l>
+               <l>The <hi>wild</hi> and <hi>ſavage beaſts</hi> would <hi>ſhame</hi> us all:</l>
+               <l>For they <hi>conſent</hi> the <hi>Lyon</hi> ſtill ſhould <hi>reign;</hi>
+               </l>
+               <l>Becauſe <hi>by nature</hi> made their <hi>Soveraign.</hi>
+               </l>
+               <l>The Crown, which <hi>all admire,</hi> and <hi>ſome adore,</hi>
+               </l>
+               <l>Is that, which none but <hi>high-born Princes</hi> wore.</l>
+               <l>The <hi>talleſt branch</hi> upon that <hi>Royall ſtemme,</hi>
+               </l>
+               <l>Is onely fit to wear the <hi>Diadem.</hi>
+               </l>
+               <l>Should <hi>Peaſants rule,</hi> and keep their <hi>Princes under,</hi>
+               </l>
+               <l>'Twould put the <hi>ſeven wonders</hi> out of wonder.</l>
+               <l>Of all <hi>Monſtroſities,</hi> not one like theſe,</l>
+               <l>To ſee a Nation walk <hi>Antipodes;</hi>
+               </l>
+               <l>To ſee the <hi>Sun deveſted of its light,</hi>
+               </l>
+               <l>And made <hi>inferiour</hi> to the <hi>guide of night;</hi>
+               </l>
+               <l>To ſee a <hi>Dunghill mounted</hi> to the <hi>Sky,</hi>
+               </l>
+               <l>There plac't to be the <hi>Dayes illuſtrious Eye;</hi>
+               </l>
+               <l>To ſee a <hi>Swine</hi> weare <hi>Jewels in his ſnout;</hi>
+               </l>
+               <l>To ſee the <hi>Lillies cropt,</hi> whilſt <hi>Briers</hi> ſprout:</l>
+               <l>Yet theſe, and many more were found wrapt in</l>
+               <l>That late <hi>Apoſtrophe</hi> of <hi>Crown</hi> from <hi>King.</hi>
+               </l>
+               <l>Crowns therefore are the great <hi>Prerogative</hi>
+               </l>
+               <l>Of ſacred <hi>Kings:</hi> Flowers that will not thrive</l>
+               <l>Or grow on <hi>Sordid ſhrubs;</hi> but made to be</l>
+               <l>The higheſt Glory of the <hi>Cedar-tree.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <pb n="8" facs="tcp:135630:6"/>
+               <head>
+                  <hi>IV.</hi> Of the Neceſſity of Crowns.</head>
+               <l>When that the <hi>Sun</hi> ſhall ceaſe to <hi>guide the day;</hi>
+               </l>
+               <l>When <hi>Moon and Stars</hi> ſhall need no <hi>borrowed Ray:</hi>
+               </l>
+               <l>When <hi>Kings</hi> and <hi>Government</hi> ſhall be no more;</l>
+               <l>Then <hi>Crowns</hi> ſhall ceaſe as needleſſe: <hi>not before.</hi>
+               </l>
+               <l>The States <hi>(as Stars take from the Sun their light)</hi>
+               </l>
+               <l>From <hi>Crowns</hi> receive both <hi>Majeſty and might.</hi>
+               </l>
+               <l>
+                  <hi>Theſe</hi> only can the Kingdomes Peace defend,</l>
+               <l>And make the <hi>ſturdy'ſt Tyrants breake</hi> or <hi>bend:</hi>
+               </l>
+               <l>Theſe only can with their <hi>victorious Rayes,</hi>
+               </l>
+               <l>
+                  <hi>Diſpell</hi> our <hi>ſtorms,</hi> and give us <hi>Halcyon-dayes.</hi>
+               </l>
+               <l>When <hi>the late Crown</hi> did <hi>fall,</hi> ſuch <hi>Tempeſts roſe,</hi>
+               </l>
+               <l>As if the <hi>Centre</hi> would <hi>it ſelf diſcloſe:</hi>
+               </l>
+               <l>Such <hi>Hero-canes</hi> did then diſturbe our eaſe,</l>
+               <l>As if <hi>Old-England</hi> were an <hi>Indies.</hi>
+               </l>
+               <l>
+                  <hi>Cyclopian</hi> Darts did <hi>wound and kill</hi> ſo faſt,</l>
+               <l>As if <hi>the World</hi> would then <hi>breath out its laſt.</hi>
+               </l>
+               <l>It was an <hi>Age</hi> that well might weary out</l>
+               <l>The <hi>Cyclops, Vulcan, Mars,</hi> and all that rout.</l>
+               <l>The <hi>Sword ſtruck off our head</hi> without controll,</l>
+               <l>And made the <hi>Palace</hi> like a <hi>Capitol.</hi>
+               </l>
+               <l>And ſhall not <hi>future Ages weep the tale,</hi>
+               </l>
+               <l>And ſtory of that <hi>Monarchs</hi> Funerall?</l>
+               <l>There needs muſt follow <hi>darkneſſe,</hi> tumults, war,</l>
+               <l>When that the <hi>Sun</hi> became a <hi>falling Star.</hi>
+               </l>
+               <l>
+                  <hi>'Twas then the Horſes ran where e're they liſt</hi>
+               </l>
+               <l>
+                  <hi>To fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the World, when their own guide was miſt.</hi>
+               </l>
+               <l>Poſterity ſhall mourn to hear what fate</l>
+               <l>Hung o're this dolefull, this diſtrackted State.</l>
+               <l>But we may now rejoyce. There comes at laſt</l>
+               <l>
+                  <hi>A ſweet forgetfulneſſe of ſorrowes paſt.</hi>
+               </l>
+               <l>May <hi>that</hi> once <hi>Captive,</hi> now <hi>triumphant Crown</hi>
+               </l>
+               <l>Conquer its foes, and throw <hi>Rebellion</hi> down:</l>
+               <l>
+                  <pb n="9" facs="tcp:135630:6"/>Reſtore this <hi>Palſie-Nation</hi> to its <hi>health;</hi>
+               </l>
+               <l>And <hi>Monarchy</hi> prefer to <hi>Common-wealth.</hi>
+               </l>
+               <l>So ſhall we ever <hi>jo-paeans</hi> ſing,</l>
+               <l>And make the World with acclamations ring:</l>
+               <l>So ſhall our <hi>words</hi> with <hi>choiceſt accents</hi> be</l>
+               <l>
+                  <hi>Raiſ'd</hi> up to ſuch <hi>Seraphick harmonie;</hi>
+               </l>
+               <l>That ev'ry ſingle <hi>Vowell</hi> ſhall <hi>rebound,</hi>
+               </l>
+               <l>And like a <hi>Diphthong</hi> give a <hi>double ſound;</hi>
+               </l>
+               <l>Nothing ſhall paſſe out through our lips, that is</l>
+               <l>Not utter'd with a <hi>chearfull Emphaſis.</hi>
+               </l>
+               <l>Without the <hi>Crown</hi> all other <hi>things</hi> are <hi>toyes:</hi>
+               </l>
+               <l>The <hi>crowning of the King crowns all our joyes.</hi>
+               </l>
+               <l>O may it therefore never more be known</l>
+               <l>Our ſelves to want a <hi>King,</hi> our <hi>King</hi> a <hi>Crown.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>
+                  <hi>V.</hi> Of the Dignity of Crowns.</head>
+               <l>Read over the <hi>Worlds Alphabet,</hi> the ſtory</l>
+               <l>Of ſage Antiquity: there's not that Glory</l>
+               <l>In all the Feats of Art, which here is ſhown</l>
+               <l>In this her <hi>Maſter-piece,</hi> the <hi>Royall Crown.</hi>
+               </l>
+               <l>Thoſe <hi>golden Apples,</hi> which brave <hi>Hercules</hi>
+               </l>
+               <l>Took by his valour from th' <hi>Heſperides,</hi>
+               </l>
+               <l>Were <hi>fair without,</hi> and <hi>beauteous</hi> to the <hi>Eye,</hi>
+               </l>
+               <l>Whilſt all <hi>within</hi> did <hi>rot and putrifie</hi>
+               </l>
+               <l>The <hi>Golden Fleece,</hi> which <hi>Jaſon</hi> took ſuch pain</l>
+               <l>To <hi>ſteale</hi> from <hi>Colchos,</hi> was but <hi>wooll in grain:</hi>
+               </l>
+               <l>'Twere <hi>graines</hi> of <hi>Gold</hi> that made it ſuch a peece,</l>
+               <l>B'ing firſt a <hi>Sheeps-ſkin,</hi> then a <hi>golden fleece.</hi>
+               </l>
+               <l>The <hi>golden Crown</hi> hath more of worth then theſe,</l>
+               <l>Or any jewell from the <hi>Indian</hi> Seas.</l>
+               <l>It needs no <hi>varniſh outwardly</hi> to hide</l>
+               <l>Its <hi>inward blemiſhes;</hi> it needs not pride</l>
+               <l>It ſelf in <hi>painted ſhowes;</hi> it needs no <hi>foile,</hi>
+               </l>
+               <l>Unleſſe it be its <hi>Diamends to ſpoyle.</hi>
+               </l>
+               <l>
+                  <pb n="10" facs="tcp:135630:7"/>Which <hi>ſparkling Gems,</hi> like <hi>eyes ſet round,</hi> do well</l>
+               <l>Denote a <hi>King the Kingdomes Sentinell;</hi>
+               </l>
+               <l>Who with more care his Subjects fortifies,</l>
+               <l>Then <hi>Argus Io,</hi> wih his <hi>hundred eyes.</hi>
+               </l>
+               <l>Its matter is by <hi>Chymiſts</hi> ſo <hi>refin'd,</hi>
+               </l>
+               <l>The <hi>Quinteſſence</hi> is only <hi>left behind:</hi>
+               </l>
+               <l>So ſtrange and admirable is its frame,</l>
+               <l>The <hi>Artiſt</hi> ſcarce beleeves he made the ſame.</l>
+               <l>Who would to all its <hi>excellencies</hi> come,</l>
+               <l>Muſt with the <hi>golden number count their Summe.</hi>
+               </l>
+               <l>Would'ſt in a <hi>word</hi> know what this <hi>Circlet</hi> is?</l>
+               <l>Thou canſt not without a <hi>Periphraſis.</hi>
+               </l>
+               <l>It doth in its <hi>Superlative degree,</hi>
+               </l>
+               <l>Tranſcend the reach of an <hi>Hyperbole.</hi>
+               </l>
+               <l>Ther's more contained in that one word, <hi>Crown;</hi>
+               </l>
+               <l>Then ever <hi>was</hi> or fully <hi>can</hi> be <hi>known.</hi>
+               </l>
+               <l>
+                  <hi>Crown'd,</hi> that's enough it ſelf; there needs no more</l>
+               <l>Be ſaid, to make the <hi>Subject</hi> to adore</l>
+               <l>His lawfull <hi>Prince;</hi> or make his <hi>Prince</hi> to be</l>
+               <l>
+                  <hi>Intitled to a just Supremacie.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>
+                  <hi>VI.</hi> Of the Perpetuity of Crowns.</head>
+               <l>If that an <hi>humble Verſe</hi> could <hi>reach</hi> the <hi>Sky,</hi>
+               </l>
+               <l>Or <hi>meeter</hi> could <hi>mete</hi> out <hi>Eternity:</hi>
+               </l>
+               <l>Then might perhaps to ev'ry eye be ſhown</l>
+               <l>The <hi>vaſtneſſe</hi> of the <hi>Crowns duration.</hi>
+               </l>
+               <l>
+                  <hi>Time</hi> may <hi>ungloſſe</hi> the <hi>Flouriſhes of Art,</hi>
+               </l>
+               <l>But <hi>can't annihilate</hi> the <hi>ſmalleſt part</hi>
+               </l>
+               <l>Of <hi>maſſie Gold.</hi> Crowns ſhall <hi>out-wreſtle all;</hi>
+               </l>
+               <l>Yea, <hi>time it ſelf</hi> at laſt, and <hi>giv't the fall.</hi>
+               </l>
+               <l>When theſe <hi>(like timely fruit from off the Tree)</hi>
+               </l>
+               <l>Do fall away, they do not ceaſe to be:</l>
+               <l>Nor ſhall they <hi>die</hi> at <hi>Natures Funerall,</hi>
+               </l>
+               <l>But ſhall be <hi>chang'd,</hi> and made perpetuall.</l>
+               <l>
+                  <pb n="11" facs="tcp:135630:7"/>O may <hi>Great Britains Monarch</hi> many yeares</l>
+               <l>Reign <hi>here below,</hi> and then <hi>above</hi> the <hi>Spheares:</hi>
+               </l>
+               <l>And when theſe <hi>golden Shadowes</hi> all are gone,</l>
+               <l>May there for ever wear a <hi>reall Crown:</hi>
+               </l>
+               <l>May, when his <hi>Princely Race</hi> is <hi>finiſht</hi> here,</l>
+               <l>
+                  <hi>Paſſe</hi> from his <hi>own</hi> to <hi>Heavens Star-Chamber.</hi>
+               </l>
+               <l>May <hi>factious Comets</hi> never more <hi>preſage</hi>
+               </l>
+               <l>To <hi>Peace a Period, Prince a Pilgrimage:</hi>
+               </l>
+               <l>Till that <hi>time</hi> comes, when <hi>time</hi> it ſelf ſhall <hi>die,</hi>
+               </l>
+               <l>And ſhall <hi>lie buried in Eternity.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>An <hi>Ardent wiſh</hi> for the <hi>Coronation</hi> of his <hi>ſa<g ref="char:EOLhyphen"/>cred Majeſty</hi> CHARLES II.</head>
+            <l>Are <hi>Crowns</hi> ſo uſefull to maintain</l>
+            <l>The <hi>Peoples ſafety, Princes reign?</hi>
+            </l>
+            <l>And made for none</l>
+            <l>But <hi>Kings</hi> alone?</l>
+            <l>Then why doth not that <hi>Royall head</hi>
+            </l>
+            <l>With its <hi>own Crown</hi> (that is ſo dread)</l>
+            <l>It ſelf <hi>adorn,</hi>
+            </l>
+            <l>Since't muſt be worn?</l>
+            <l>Why do our <hi>greateſt</hi> joyes come on</l>
+            <l>With ſuch a <hi>ſlow gradation,</hi>
+            </l>
+            <l>As if <hi>delay</hi>
+            </l>
+            <l>Would <hi>bid</hi> us <hi>nay?</hi>
+            </l>
+            <l>Why doth delay thus <hi>rack</hi> our hope,</l>
+            <l>Making us <hi>run</hi> beſide the <hi>ſcope,</hi>
+            </l>
+            <l>And happy end,</l>
+            <l>To which we tend?</l>
+            <l>Why don't our eyes behold and ſee</l>
+            <l>The <hi>joyfull'ſt Contiguitie</hi>
+            </l>
+            <l>That e're was known</l>
+            <l>'Twixt <hi>head</hi> and <hi>Crown?</hi>
+            </l>
+            <l>
+               <pb n="12" facs="tcp:135630:8"/>Come quickly then thou <hi>joyfull day,</hi>
+            </l>
+            <l>Come <hi>ſwifter</hi> then a <hi>darted Ray</hi>
+            </l>
+            <l>Out from the <hi>Sun</hi>
+            </l>
+            <l>When <hi>clouds</hi> are gone,</l>
+            <l>
+               <hi>Out-run our thoughts:</hi> with nimble ſpeed</l>
+            <l>
+               <hi>Anticipate</hi> the time <hi>decreed.</hi>
+            </l>
+            <l>Let haſte prepare</l>
+            <l>Againſt deſpair.</l>
+            <l>Our minds with expectation <hi>led</hi>
+            </l>
+            <l>Would <hi>languiſh,</hi> if not <hi>pullyed</hi>
+            </l>
+            <l>And ſtill drawn up</l>
+            <l>With cords of hope.</l>
+            <l>And hope it ſelf would fayle at laſt,</l>
+            <l>Should it not ſee <hi>that day</hi> make haſte,</l>
+            <l>Which doth attend</l>
+            <l>Its hoped end.</l>
+            <l>
+               <hi>Lets wait a while.</hi> We ſhall ere long</l>
+            <l>
+               <hi>Shut up all Sorrowes with a Song.</hi>
+            </l>
+            <l>When <hi>Charles</hi> is <hi>crown'd</hi>
+            </l>
+            <l>
+               <hi>Joyes ſhal rebound.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135630:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
